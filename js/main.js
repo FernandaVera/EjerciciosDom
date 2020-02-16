@@ -44,7 +44,6 @@ function display() {
   var showText = document.getElementsByClassName("aditional hidden");
   return showText[0].classList.remove("hidden");
 }
-display(showText[0]);
 
 ////*------////////// DOM 3 /////////-------*
 
